@@ -1,1 +1,1 @@
-docker pull ${params.image-name}
+docker pull ${image-name}
